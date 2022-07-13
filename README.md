@@ -8,6 +8,22 @@
 -   Docker version 20.10.11
 -   Docker-compose version 1.29.0
 
+## Technologies:
+
+-   Nestjs backend framework
+-   Postgres database
+-   Docker for infrastructure
+-   Typeorm ORM library
+-   Heroku Postgres
+-   Pubnub on Heroku for async notifications
+-   nestjs-seeder to use nestjs modules as cli
+-   Swagger for api rest documentation
+-   JWT to authenticate routes
+-   Jest for unit tests
+-   Axios for http request
+-   RXJS
+-   Class Validator
+
 ## Run:
 
 -   install api dependencies:
